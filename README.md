@@ -1,6 +1,6 @@
 ### Hello 😄
 
-After a master degre in accounting and 3 years of professional experience in the field I decided to start a new carreer in full stack development. I attended the Full Stack development BootCamp of [Le Wagon](https://github.com/lewagon) in last January and I've been coding all day everyday since then. 
+After a master degree in accounting and 3 years of professional experience in the field I decided to start a new carreer in full stack development. I attended the Full Stack development BootCamp of [Le Wagon](https://github.com/lewagon) in last January and I've been coding all day everyday since then. 
 
 ## 🔭 I’m currently working on Ptite? 
 
